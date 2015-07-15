@@ -1,4 +1,4 @@
-DROP USER 'michae';
+DROP USER 'michael';
 CREATE USER michael WITH ENCRYPTED PASSWORD 'stonebreaker';
 DROP DATABASE todo_app;
 CREATE DATABASE todo_app ENCODING 'utf8';
